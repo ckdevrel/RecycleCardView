@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">RecycleCardView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string-array name="color_names">
+
+        <item>red</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>deepblue</item>
+        <item>indigo</item>
+        <item>blue</item>
+        <item>lightblue</item>
+        <item>cyan</item>
+        <item>teal</item>
+        <item>green</item>
+        <item>lightgreen</item>
+        <item>lime</item>
+        <item>yellow</item>
+        <item>amber</item>
+        <item>orange</item>
+        <item>deeporange</item>
+        <item>brown</item>
+        <item>grey</item>
+        <item>bluegrey</item>
+
+    </string-array>
+
+
+    <!--<array name="drawer_icons">-->
+        <!--<item>@drawable/ic_mat_home_white</item>-->
+        <!--<item>@drawable/ic_mat_calendar_white</item>-->
+        <!--<item>@drawable/ic_mat_bmi_white</item>-->
+        <!--<item>@drawable/ic_mat_followups_white</item>-->
+        <!--<item>@drawable/ic_mat_profile_white</item>-->
+        <!--<item>@drawable/ic_mat_settings_white</item>-->
+
+        <!--<item>@drawable/ic_mat_record_white</item>-->
+        <!--<item>@drawable/ic_mat_nutrition_white</item>-->
+        <!--<item>@drawable/ic_mat_bmi_white</item>-->
+        <!--<item>@drawable/ic_mat_contacts_white</item>-->
+    <!--</array>-->
+
+    <array name="color_codes">
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/deepblue</item>
+        <item>@color/indigo</item>
+        <item>@color/blue</item>
+        <item>@color/lightblue</item>
+        <item>@color/cyan</item>
+        <item>@color/teal</item>
+        <item>@color/green</item>
+        <item>@color/lightgreen</item>
+        <item>@color/lime</item>
+        <item>@color/yellow</item>
+        <item>@color/amber</item>
+        <item>@color/orange</item>
+        <item>@color/deeporange</item>
+        <item>@color/brown</item>
+        <item>@color/grey</item>
+        <item>@color/bluegrey</item>
+
+    </array>
+</resources>
